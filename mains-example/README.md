@@ -17,7 +17,7 @@ A scope shows one period of the sine wave.
 Start Scilab from the Linux console:
 
 ```
-~/scilab-2024.0.0/bin/scilab
+MESA_GL_VERSION_OVERRIDE=3.0 ~/scilab-2024.0.0/bin/scilab
 ```
 
 In the scilab console type ***xcos*** to start Xcos:

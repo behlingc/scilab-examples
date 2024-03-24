@@ -12,7 +12,7 @@ One scope shows one period of the mains sine wave AC voltage.
 
 Another scope shows the resulting DC voltage. 
 
-![Rectifier Example](./images/ac-dc-example_1.png)
+![AC/DC Converter Example](./images/ac-dc-converter-example_1.png)
 
 ## Creation Steps
 
@@ -23,11 +23,11 @@ an additional voltage measurement - use CMSCOPE instead of CSCOPE - with ***Ymin
 
 The transformer needs a ***Turn Ratio*** of ***13.55***:
 
-![Rectifier Example](./images/ac-dc-example_2.png)
+![AC/DC Converter Example](./images/ac-dc-converter-example_2.png)
 
 The capacitor needs a ***C(F)*** of ***0.000001*** Farad (Microfarad):
 
-![Rectifier Example](./images/ac-dc-example_3.png)
+![AC/DC Converter Example](./images/ac-dc-converter-example_3.png)
 
 Link everything as shown above.
 

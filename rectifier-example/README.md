@@ -24,5 +24,5 @@ an additional voltage measurement with ***Ymin*** ***0*** Volt and ***Ymax*** **
 
 Link everything as shown above.
 
-Run the simulation with the same ***Final Integration Time*** of 20 Millisconds.
+Run the simulation with the same ***Final integration time*** of 20 Millisconds.
 

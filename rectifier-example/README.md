@@ -17,7 +17,7 @@ Another scope shows the recified voltage.
 
 ## Creation Steps
 
-Create the mains suppy the same way as done in the [Mains Example](../main-example/README.md).
+Create the mains suppy the same way as done in the [Mains Example](../mains-example/README.md).
 
 Add a rectifier as shown above using the ***Diode*** block from ***Electrical** with
 an additional voltage measurement with ***Ymin*** ***0*** Volt and ***Ymax*** ***350*** Volt.
